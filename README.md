@@ -21,4 +21,4 @@ Processed at the County/Municipality level
 ## Code
 
 R gsynth analysis
-San Diego and Tijuana: Mexico_gsynth_1_27_23.R
+Tijuana: Mexico_gsynth_1_27_23.R
